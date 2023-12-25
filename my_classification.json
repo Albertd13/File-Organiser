@@ -1,0 +1,60 @@
+{
+    "Images_Gifs": [
+        "png",
+        "jpg",
+        "jpeg",
+        "gif",
+        "jfif",
+        "svg"
+    ],
+    "Audio": [
+        "mp3",
+        "wav",
+        "aac",
+        "wma"
+    ],
+    "Video": [
+        "mp4"
+    ],
+    "Docs": [
+        "doc",
+        "docx",
+        "pdf",
+        "odt",
+        "md",
+        "txt",
+        "xlsx"
+    ],
+    "Coding": [
+        "py",
+        "html",
+        "css",
+        "js",
+        "cpp",
+        "cxx",
+        "c",
+        "cc"
+    ],
+    "Application_Executables": [
+        "exe",
+        "msi",
+        "jar"
+    ],
+    "Archives_Compressed": [
+        "zip",
+        "rar",
+        "tar"
+    ],
+    "Emails": [
+        "eml"
+    ],
+    "File_URL_Shortcuts": [
+        "lnk",
+        "url"
+    ],
+    "Data_Files": [
+        "json",
+        "csv",
+        "xml"
+    ]
+}
